@@ -24,3 +24,41 @@ C:\Users\Hacker\Documents\Visual Studio 2012\Projects\LabExample\LabExample\bin\
 C:\Users\Hacker\Documents\Visual Studio 2012\Projects\LabExample\LabExample\obj\Debug\LabExample.csprojResolveAssemblyReference.cache
 C:\Users\Hacker\Documents\Visual Studio 2012\Projects\LabExample\LabExample\obj\Debug\LabExample.dll
 C:\Users\Hacker\Documents\Visual Studio 2012\Projects\LabExample\LabExample\obj\Debug\LabExample.pdb
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\LabExample.dll.config
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\LabExample.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\LabExample.pdb
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\Microsoft.Web.Infrastructure.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\Newtonsoft.Json.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Net.Http.Formatting.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Helpers.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Http.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Http.WebHost.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Mvc.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Razor.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.Deployment.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.Razor.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\Newtonsoft.Json.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Net.Http.Formatting.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Helpers.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Http.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Http.WebHost.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Mvc.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.Razor.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.Deployment.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\System.Web.WebPages.Razor.xml
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.Helpers.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.Http.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.Mvc.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.Razor.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.WebPages.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\obj\Debug\LabExample.csprojAssemblyReference.cache
+E:\1\Dubinin\PnP2\LabEx\LabExample\obj\Debug\LabExample.csproj.CoreCompileInputs.cache
+E:\1\Dubinin\PnP2\LabEx\LabExample\obj\Debug\LabExample.csproj.CopyComplete
+E:\1\Dubinin\PnP2\LabEx\LabExample\obj\Debug\LabExample.dll
+E:\1\Dubinin\PnP2\LabEx\LabExample\obj\Debug\LabExample.pdb
